@@ -1,2 +1,4 @@
-Tasks found on [codingame.com](codingame.com) solved in Haskell.
+Simple programming tasks solved in Haskell.
 Just for fun.
+
+Source: [codingame.com](codingame.com)
