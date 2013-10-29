@@ -15,9 +15,14 @@ Otherwise, display the temperature closest to 0, knowing that if two numbers are
 
 ###EXAMPLE:
 
-    Input             Output
-    5                 1
+**Input**
+
+    5
     1 -2 -8 4 5
+
+**Output**
+
+    1
 
 **Available RAM:** 512MB  
 **Timeout:** 1 seconds
